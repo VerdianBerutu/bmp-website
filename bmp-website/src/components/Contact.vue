@@ -151,6 +151,8 @@ const form = reactive({
 const contactInfo = [
   { icon: '📧', label: 'Email', value: 'binmabmp@gmail.com', sub: 'Respon dalam 24 jam' },
   { icon: '📱', label: 'WhatsApp', value: '+62 858 2409 2027', sub: 'Senin - Jumat, 08.00 - 17.00' },
+  { icon: '📱', label: 'WhatsApp', value: '+62 896 1806 0765', sub: 'Senin - Jumat, 08.00 - 17.00' },
+  { icon: '📱', label: 'WhatsApp', value: '+62 821 6637 1965', sub: 'Senin - Jumat, 08.00 - 17.00' },
   { icon: '📍', label: 'Lokasi', value: 'Indonesia', sub: 'Beroperasi di seluruh Indonesia' },
 ]
 

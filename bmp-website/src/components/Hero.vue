@@ -99,9 +99,9 @@ import { ref, onMounted } from 'vue'
 const visible = ref(false)
 
 const stats = [
-  { value: '10+', label: 'Tahun Pengalaman' },
-  { value: '500+', label: 'Proyek Selesai' },
-  { value: '50+', label: 'Klien Aktif' },
+  { value: '3+', label: 'Tahun Pengalaman' },
+  { value: '100+', label: 'Proyek Selesai' },
+  { value: '25+', label: 'Klien Aktif' },
   { value: '3', label: 'Bidang Layanan' },
 ]
 

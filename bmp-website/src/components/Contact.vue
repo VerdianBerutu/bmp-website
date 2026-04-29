@@ -165,14 +165,15 @@ const handleSubmit = async () => {
 
   const nomorWA = '6285824092027'
   const pesan = `*Pesan dari Website BMP*
-
-👤 Nama: ${form.name}
-📧 Email: ${form.email}
-🏢 Perusahaan: ${form.company}
-📋 Subjek: ${form.subject}
-
-💬 Pesan:
-${form.message}`
+--------------------------------
+Nama      : ${form.name}
+Email     : ${form.email}
+Perusahaan: ${form.company}
+Subjek    : ${form.subject}
+--------------------------------
+Pesan:
+${form.message}
+--------------------------------`
 
   const url = `https://wa.me/${nomorWA}?text=${encodeURIComponent(pesan)}`
 

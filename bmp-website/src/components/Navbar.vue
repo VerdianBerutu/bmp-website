@@ -6,10 +6,10 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex items-center justify-between">
         <!-- Logo -->
-        <img 
-  src="/logo.png" 
+<img 
+  src="/logo2.png" 
   alt="BMP Logo" 
-  class="h-12 w-auto group-hover:scale-105 transition-transform duration-300"
+  class="h-14 w-auto group-hover:scale-105 transition-transform duration-300 brightness-0 invert"
 />
         <!-- Desktop Menu -->
         <div class="hidden md:flex items-center gap-8">

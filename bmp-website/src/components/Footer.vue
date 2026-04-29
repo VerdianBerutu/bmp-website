@@ -64,7 +64,7 @@
     <div class="border-t border-white/5">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5 flex flex-col sm:flex-row items-center justify-between gap-3">
         <p class="text-white/30 text-xs text-center sm:text-left">
-          © 2024 PT Binma Mitra Perkasa. All rights reserved.
+          © 2026 PT Binma Mitra Perkasa. All rights reserved.
         </p>
         <p class="text-white/20 text-xs">
           General Trading · Engineering & Contractor · Logistik & Heavy Equipment

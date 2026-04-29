@@ -42,7 +42,7 @@
           <!-- Main image -->
           <div class="relative rounded-2xl overflow-hidden shadow-2xl">
             <img
-              src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80"
+              src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=80"
               alt="Engineering work"
               class="w-full h-96 object-cover"
             />
